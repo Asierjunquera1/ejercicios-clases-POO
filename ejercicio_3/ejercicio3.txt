@@ -1,0 +1,7 @@
+Se devolverá:
+<class '__main__.A'>
+False
+0
+1
+2
+3
